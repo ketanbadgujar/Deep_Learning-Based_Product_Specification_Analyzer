@@ -1,0 +1,1229 @@
+[
+    {
+        "description": "This product complies with the JIC 3834 standard, supports a #300 class rating, has dimensions Nominal Pipe Size: 42 inch, Class Rating: #150, and is made of CS material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the PN & ANSI standard, supports a 300 LB class rating, has dimensions 12\", and is made of PTFE material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME 16.20 standard, supports a #150 class rating, has dimensions 4\"NPS, and is made of Carbon Steel  material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the JIC 3834 standard, supports a #600 class rating, has dimensions 2, and is made of Outer: Stainless steel, Inner: Teflon material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a #300 class rating, has dimensions 10\", 8\", 6\", 4\", and is made of Graphite material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a 300 Ansi class rating, has dimensions 3\", and is made of GF300 material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ANSI standard, supports a #150 class rating, has dimensions 90x200mm, and is made of Sheet Gasket, Flexicarb RGS 3 material.\n",
+        "predicted_specifications": [
+            "Dimensions"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a 300 class rating, has dimensions DN50 to DN600, and is made of ss316 inner/outer ring material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a 150# class rating, has dimensions Diameter: 2.5 inch, Length: 5 meter, and is made of Stainless steel material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a #150 class rating, has dimensions custom, and is made of RUBBER EPDM material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME 16.20 standard, supports a #600 class rating, has dimensions Varies, and is made of SS304/SS316 material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ANSI standard, supports a ANSI 150# class rating, has dimensions 18 INCH, 1.66MM THK, NON-ASBESTOS GRAPHITE, 316 STAINLESS STEEL INSERT, CLASS 300, and is made of Soft Iron material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.47, Series B Flanges standard, supports a #600 class rating, has dimensions 35mm x 41mm x 3mm, and is made of FRAME: ASTM A36 OR EQUIVALENT, BELLOWS: SUS 304 OR EQUIVALENT material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the JIC 3834 standard, supports a Pressure Class: PN40 class rating, has dimensions VARIOUS, and is made of SS304 material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME standard, supports a 150 class rating, has dimensions Customizable, and is made of rubber material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a #150 class rating, has dimensions 1.5 meter, and is made of Hot Dip Galvanised Mild Steel material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the JIC 3834 standard, supports a 300 Ansi class rating, has dimensions Diameter: 10\", Standard: ASTM A182, Grade: GR.F304, and is made of Filler Material: SS316L (Stainless Steel 316L), Outer Ring Material: CS (Carbon Steel), Inner Ring Material: SS316L (Stainless Steel 316L) material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ANSI standard, supports a #900 class rating, has dimensions jis 10k dia 4\u201d, and is made of Neoprene material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a 150, 300, 600, 900, 1500, 2500 class rating, has dimensions 8 inch, length 18 cm, and is made of Low Carbon Steel material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ansi standard, supports a #300 class rating, has dimensions 200mm x 150mm x 100mm, and is made of SUS304 material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a #150 class rating, has dimensions 2.1/2\" NPS, and is made of Stainless Steel material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASTM standard, supports a 150# class rating, has dimensions 50mm x 75mm x 100mm, and is made of Teflon, Mylar material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a #300 class rating, has dimensions As per attachment, and is made of Non ASB with neoprene binder material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a #150 class rating, has dimensions 10 INCHI, and is made of SA240 material.\n",
+        "predicted_specifications": [],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the GASKET,SPIRAL WOUND,W/ INNER & OUTER  RING,#600,14IN X 4.5MM standard, supports a #1500 class rating, has dimensions Size: 36 inches, Series: B, and is made of Carbon Steel  material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ANSI standard, supports a 150# class rating, has dimensions 2 INCHI, and is made of PTFE material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a 150# RF class rating, has dimensions 12\", and is made of Ferolite FMP 702 material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a #600 class rating, has dimensions Varies, and is made of Carbon steel material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the JIC 3834-R-FG-CS-CS standard, supports a Class 300 class rating, has dimensions Length: 4 Meter, and is made of 304SS + graphite material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a 300 class rating, has dimensions Inner Diameter: 50 mm, Outer Diameter: 100 mm, Thickness: 4.5 mm, and is made of Carbon Steel  material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the GASKET,SPIRAL WOUND,W/ INNER & OUTER  RING,#600,14IN X 4.5MM standard, supports a #900 class rating, has dimensions 1000 x 1200 x 10 MM, and is made of Inner Ring: SS316, Filler Material: Graphite, Hoop Material: SS316 material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the JIC 3834 standard, supports a bukan standart class rating, has dimensions Diameter: 500 mm, Bolt Size: M30, and is made of Silicone (Food Grade) material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME 16.20 standard, supports a 150# class rating, has dimensions THK 5 X W 1200 X L 1000 MM, and is made of Metal material.\n",
+        "predicted_specifications": [
+            "Dimensions"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME standard, supports a Class 150 class rating, has dimensions 3t x OD 533 x ID 511, and is made of CS material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a #600 class rating, has dimensions 8 INCH PIPE, CLASS 150, CARBON STEEL OUTER RING, 316L STAINLESS STEEL WINDING, FLEXIBLE GRAPHITE FILLER, 316 STAINLESS STEEL INNER RING, 4.5MM THK, and is made of Carbon Steel material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the JIC 3834 standard, supports a #600 class rating, has dimensions 1.5 m x 1.5 meter thk 5mm, and is made of Carbon Steel material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ANSI B16.5 standard, supports a #150 class rating, has dimensions ID. 406 mm ; OD. 450mm, and is made of Gasket: Teflon, Sleeve: Mylar material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME 16.20 standard, supports a 150# class rating, has dimensions 24 Inch, and is made of Material fitting : CS, Material Core tube & over braid/cover : Stainless Steel 304 material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a #1500 class rating, has dimensions 321x328, and is made of Gasket: G10 with metallic core, Seal: Self-energized Teflon, Sleeve and Washer: G10, Back-up Washer: SS316 material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a 300 LB class rating, has dimensions ID 1090, OD 1260, Thickness 2 mm, and is made of SS 304 material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a #600 class rating, has dimensions 550 x 526 x 4.5 x 10W x 10R, and is made of Black Steel (Carbon Steel) material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a 150# class rating, has dimensions 100 x 150 x 0.4 mm, and is made of SS316 material.\n",
+        "predicted_specifications": [
+            "Dimensions"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the JIC 3834 standard, supports a 1500LB class rating, has dimensions 80mm, 8 bolt holes, and is made of karet material.\n",
+        "predicted_specifications": [
+            "Dimensions"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME standard, supports a 150 class rating, has dimensions 5mm x 1,5 m x 10 m, and is made of A-182 F304 material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a ANSI 150# class rating, has dimensions Nominal Pipe Size: 3 inch, Inside Diameter: 76.2 mm, Outside Diameter: 111.1 mm, Thickness: 4.5 mm, and is made of 316 SS material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the JIC 3834 standard, supports a PN40 class rating, has dimensions 45mm x 65mm x 10mm, and is made of Non ASB with neoprene binder material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME standard, supports a #300 class rating, has dimensions 1/2\" NPS, and is made of Bellows: SUS316L, Braid: SUS304 material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a 1500 LB class rating, has dimensions 1-7/8, and is made of Forging material.\n",
+        "predicted_specifications": [],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a #150 class rating, has dimensions 50mm x 75mm x 15mm, and is made of SS304 material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the PN & ANSI standard, supports a 300 LB class rating, has dimensions 150x225x15, and is made of SS304 material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a #600 class rating, has dimensions Nominal Pipe Size: 8\", Class Rating: 300, and is made of Inner: SS 316/L, Outer: CS, Hoop: SS 316/L, Filler: Graphite material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ANSI standard, supports a 150 class rating, has dimensions Diameter 55 mm, and is made of Winding: 316 SS, Filler: Flexible Graphite, Inner Ring: 316 SS, Outer Ring: 316 SS material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a #150 class rating, has dimensions Pipe Size: 28 IN, Thickness: 4.5mm, and is made of Soft Iron material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a ansi 150# class rating, has dimensions 12\u201d-600#, and is made of Graphite material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a #300 class rating, has dimensions Valve Size: DN200, Thickness: 60 mm, and is made of SS316 material.\n",
+        "predicted_specifications": [
+            "Dimensions"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a Class 300 class rating, has dimensions 6\" NPS, and is made of Graphite, SS304 material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ANSI standard, supports a #150 class rating, has dimensions 10\u201d, and is made of A-182 F304 material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a 150, 300, 600, 900, 1500, 2500 class rating, has dimensions 1340 x 1314 x 3, and is made of Carbon Steel, Stainless Steel, Alloy Steel material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a 150, 300, 600, 900, 1500, 2500 class rating, has dimensions 100x915x10, and is made of Multi-layer steel (MLS) material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a #150 class rating, has dimensions 75mm x 45mm x 25mm, and is made of A105 material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a #150 dan #300 class rating, has dimensions Size 16\", and is made of Carbon Steel material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a Class 150 class rating, has dimensions DN 25 - DN 200, and is made of Soft Iron material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ANSI standard, supports a #900 class rating, has dimensions 0.5 mm, and is made of Carbon Steel, Non Asbestos material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the JIC3834 standard, supports a 150LB class rating, has dimensions 12\" thk 4,5, and is made of Nitrile faced phenolic material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ANSI/ASME B16.5 standard, supports a ANSI 150# class rating, has dimensions Thickness: 8mm, Width: 1500mm, Length: 6000mm, and is made of Gylon Blue material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a #150 class rating, has dimensions Customizable, and is made of SA240 material.\n",
+        "predicted_specifications": [],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ANSI standard, supports a bukan standart class rating, has dimensions Based on Drawing, and is made of Carbon Steel material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a #900 class rating, has dimensions 50mm x 75mm, and is made of Frame: ASTM A36 ATAU SETARA, Bellows: SUS 304 ATAU SETARA material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME standard, supports a #600 class rating, has dimensions Inner Diameter: 1 inch, Outer Diameter: 1.25 inches, Length: 10 feet, and is made of Filler Material: Flexible Graphite, Winding Material: SS316L, Centering Ring Material: Carbon Steel material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ANSI standard, supports a #300 class rating, has dimensions 8\" TINGGI 14\", and is made of SS HOSE & BRAID material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a ASME 150 class rating, has dimensions Inner Diameter: 10 inches, Outer Diameter: #150, and is made of WHEEL,ABRSV,GRIND,4X1/4X5/8IN,ALOX,A24S WHEEL,ABRASIVE WHEEL DIAMETER : 4IN TYPE : GRINDING THICKNESS : 1/4IN HOLE DIAMETER : 5/8IN ABRASIVE MATERIAL : ALUMINUM OXIDE GRIT : GRIT A24S BOND TYPE : ALUM BACKING REVOLUTIONS : 13700RPM APPLICATION : METAL SPEC OR STD DATA : OSA -ORGANISATION FOR THE SAFETY OF ABRASIVES, ANSI B7.4 SPECIAL FEATURES : DEPRESSED CENTER WHEEL material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the JIC 3834 standard, supports a 150 class rating, has dimensions Width: 1 m, Length: 20 m, Thickness: 1.2 mm, and is made of Stainless steel 304 material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the DIN standard, supports a Class 150 class rating, has dimensions OD: 480 mm, ID: 419 mm, Thickness: 4.5 mm, and is made of Stainless steel material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a 150# RF class rating, has dimensions Diameter 2.5 inch, OAL 140 mm, and is made of Stainless Steel material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the JIC 3834 standard, supports a PN40 class rating, has dimensions 1/2\" NPTM, and is made of Graphite material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a #150 class rating, has dimensions 2\" NPS, and is made of Metallic Component: SS316L, Filler Material: Graphite material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a #150 class rating, has dimensions 16\", and is made of Teflon, Mylar material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the JIC 3834 standard, supports a #150 class rating, has dimensions 6 inches, and is made of SS304/SS316 material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the JIC 3834 standard, supports a #900 class rating, has dimensions 321x328, and is made of SA105 material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the JIC 3834 standard, supports a #600 class rating, has dimensions 255 mm, and is made of A-182 F304 material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a #600 class rating, has dimensions 4\" NPS , and is made of SA105 material.\n",
+        "predicted_specifications": [],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a #150 class rating, has dimensions DN350, and is made of SA105 material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a #150 class rating, has dimensions Standard sizes available, and is made of Filler Material: Flexible Graphite, Winding Material: 304 Stainless Steel, Inner Ring Material: 304 Stainless Steel, Outer Ring Material: Carbon Steel material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a Class: 150, Pressure Rating (PN): 40 class rating, has dimensions \u00d82-1/2\", and is made of SS316 material.\n",
+        "predicted_specifications": [],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a Class 300 class rating, has dimensions 2\u201d - 600#, and is made of SS316 Winding / Flexible Graphite Filler, SS316L Inner Ring / Carbon Steel Outer Ring material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a 150 class rating, has dimensions Inner Diameter: 2 inches, Outer Diameter: 2.48 inches, and is made of A105 material.\n",
+        "predicted_specifications": [],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a 300 LB class rating, has dimensions 8 inch x 300 mm, and is made of NBR material.\n",
+        "predicted_specifications": [
+            "Dimensions"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a #150 class rating, has dimensions 50mm x 75mm x 10mm, and is made of 316L Stainless Steel with Graphite Filler material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME standard, supports a #300 class rating, has dimensions d 75 / 87 X 2,5 X 4,7, and is made of BA material.\n",
+        "predicted_specifications": [],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the SS 304 standard, supports a 300 LB class rating, has dimensions 80mm, and is made of Graphite material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ANSI standard, supports a 150# class rating, has dimensions 4\", and is made of Rubber material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a Class: 150, Pressure Rating (PN): 40 class rating, has dimensions 2 inches, and is made of Hoop: SS304, Inner Ring: SS304, Outer Ring: SS304, Filler: Graphite material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a Class 300 class rating, has dimensions Thickness: 12mm (1/2\"), Inner Diameter: Varies, Outer Diameter: Varies, and is made of CORRUGATED METAL material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a PN40 class rating, has dimensions 50mm x 70mm x 30mm, and is made of A105 material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME standard, supports a #600 class rating, has dimensions 2\" x 500 mm, and is made of 304 Stainless Steel material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a #150 class rating, has dimensions Customized as per requirement, and is made of Black Steel (Carbon Steel) material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a #150 class rating, has dimensions W 60\" x L 120\" x 1.6 MM, and is made of G-10 material.\n",
+        "predicted_specifications": [
+            "Dimensions"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a 150, 300, 600, 900, 1500, 2500 class rating, has dimensions 6\", and is made of Winding Material: 316-SS, Filler Material: Graphite, Inner Ring Material: 316-SS, Outer Ring Material: Carbon Steel (CS) material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME 16.20 standard, supports a ansi 150# class rating, has dimensions Varies by product, and is made of SS304 material.\n",
+        "predicted_specifications": [
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    },
+    {
+        "description": "This product complies with the ASME B16.20 standard, supports a PN40 class rating, has dimensions 1 1/2' x 4 meter, and is made of Rubber Epdm material.\n",
+        "predicted_specifications": [
+            "Dimensions",
+            "Material"
+        ],
+        "actual_specifications": [
+            "Dimensions",
+            "Standard",
+            "Material",
+            "Class Rating"
+        ]
+    }
+]

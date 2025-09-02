@@ -8,8 +8,7 @@ This project is a deep learning application that automatically extracts **produc
 - Extracts structured product specs from unstructured text.  
 - Deep learning model using **TensorFlow & Keras**.  
 - **Regex patterns** for attributes like Dimensions.  
-- User-friendly prediction pipeline.  
-- Flask API for deployment.  
+- User-friendly prediction pipeline.    
 
 ---
 

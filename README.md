@@ -13,28 +13,4 @@ This project is a deep learning application that automatically extracts **produc
 
 ---
 
-## 📂 Project Structure  
 
-├── data/
-│   ├── training_data.json
-│   ├── input_data.json
-│   └── test_input.json
-│
-├── models/
-│   └── product_spec_analyzer.h5
-│
-├── notebooks/
-│   └── model_training.ipynb
-│
-├── src/
-│   ├── preprocess.py
-│   ├── model.py
-│   ├── predict.py
-│   ├── regex_patterns.py
-│   └── evaluate.py
-│
-├── app/
-│   └── app.py
-│
-├── requirements.txt
-└── README.md
